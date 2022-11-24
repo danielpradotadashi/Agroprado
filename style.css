@@ -1,5 +1,5 @@
 body {
-	background: #CCCCCC
+	background: #66ffff
 }
 
 #banner  {
@@ -10,6 +10,10 @@ body {
 	width: 100%;
 }
  
+#agro2 {
+	width: 100%;
+}
+
 h1 {
 	text-align: center;
 }
