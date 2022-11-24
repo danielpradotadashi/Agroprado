@@ -22,6 +22,20 @@ p {
 	text-align: center;
 }	
 
-em strong {
-	color: #FF0000;
+#você {
+    color: green
+    text-align: center;
 }
+
+#por {
+    color:blue
+    text-align: center;
+}
+
+#para {
+     color:red
+     text-align: center;
+}
+
+
+
